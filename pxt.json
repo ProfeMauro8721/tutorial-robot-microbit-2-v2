@@ -1,5 +1,5 @@
 {
-    "name": "Tutorial Robot microbit 2 v2",
+    "name": "Robot tutorial 1 Manejo de servos",
     "description": "",
     "dependencies": {
         "core": "*",
